@@ -25,4 +25,4 @@
 🔁 Update comes in future 
 
 
-🔗[Live Link](https://wonderful-sprinkles-649f5b.netlify.app/)
+🔗[Live Link](https://sandeeppalportfolio.netlify.app/)
